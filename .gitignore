@@ -1,0 +1,16 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.log
+.DS_Store
+Thumbs.db
+.env
+docker-compose.override.yml
